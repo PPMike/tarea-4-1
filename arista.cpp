@@ -1,3 +1,8 @@
+//A01383155
+//José Miguel Flores Glz
+//A01382904
+//Jose Andres Ordieres
+
 #ifndef ARISTA_H
 #define ARISTA_H
 #include "Vertice.cpp"
